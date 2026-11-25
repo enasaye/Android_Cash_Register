@@ -1,4 +1,4 @@
-package com.example.cashregister
+package com.example.cashregister.DataLayer
 
 import java.util.Date
 

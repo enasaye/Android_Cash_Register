@@ -1,6 +1,7 @@
 package com.example.cashregister
 
 import androidx.lifecycle.ViewModel
+import com.example.cashregister.DataLayer.Product
 import com.example.cashregister.DataLayer.StoreRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

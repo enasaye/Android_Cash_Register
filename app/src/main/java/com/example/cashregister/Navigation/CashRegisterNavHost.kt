@@ -73,7 +73,7 @@ fun CashRegisterNavHost(
             val selectedPurchase = purchases.find { it.id == purchaseId }
 
             if (selectedPurchase != null) {
-                HistoryDetailsScreen(purchase = selectedPurchase) // <--- Changed this
+                HistoryDetailsScreen(purchase = selectedPurchase)
             }
         }
     }

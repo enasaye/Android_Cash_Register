@@ -1,8 +1,5 @@
 package com.example.cashregister.DataLayer
 
-import com.example.cashregister.Product
-import com.example.cashregister.Purchase
-import com.example.cashregister.sampleProducts
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
